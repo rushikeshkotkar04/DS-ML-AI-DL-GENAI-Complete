@@ -1,0 +1,13 @@
+prefix=e:/DS_ML_AI_DL_GENAI_practice/venv/Library
+exec_prefix=e:/DS_ML_AI_DL_GENAI_practice/venv/Library
+libdir=e:/DS_ML_AI_DL_GENAI_practice/venv/Library/lib
+sharedlibdir=e:/DS_ML_AI_DL_GENAI_practice/venv/Library/lib
+includedir=e:/DS_ML_AI_DL_GENAI_practice/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
