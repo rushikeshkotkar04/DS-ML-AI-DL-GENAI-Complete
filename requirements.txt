@@ -9,3 +9,8 @@ memory_profiler
 ipykernel
 nltk
 svgling
+gensim
+tqdm
+beautifulsoup4
+lxml
+html5lib
