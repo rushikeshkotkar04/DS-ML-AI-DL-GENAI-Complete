@@ -6,4 +6,6 @@ bs4
 arxiv
 pymupdf
 langchain-text-splitters
-langcahin-openai
+langchain-openai
+sentence_transformers
+langchain_huggingface
